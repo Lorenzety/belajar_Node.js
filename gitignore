@@ -1,5 +1,5 @@
 node_modules
-# dist
-# .env
-# .vscode
-# .DS_store
+dist
+.env
+.vscode
+.DS_store
